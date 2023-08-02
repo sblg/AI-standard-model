@@ -22,12 +22,12 @@ Install the dependencies using the following command:
 pip install -r requirements.txt
 
 ## Usage
-Clone the repository:
+1. Clone the repository:
 git clone https://github.com/your_username/your_repository.git
 cd your_repository
 
-Train the ANN model and convert to ONNX:
+2. Train the ANN model and convert to ONNX:
 python train_model.py
 
-Start the Flask API:
+3. Start the Flask API:
 python app.py
