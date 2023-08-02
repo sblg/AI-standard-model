@@ -22,7 +22,6 @@ Install the dependencies using the following command:
 pip install -r requirements.txt
 
 ## Usage
-
 Clone the repository:
 git clone https://github.com/your_username/your_repository.git
 cd your_repository
