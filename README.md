@@ -23,8 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+git clone https://github.com/sblg/AI-standard-model.git
 
 2. Train the ANN model and convert to ONNX:
 python train_model.py
